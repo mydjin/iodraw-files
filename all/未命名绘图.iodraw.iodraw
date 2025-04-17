@@ -202,7 +202,7 @@
         <mxCell id="GjTvZx_OXRHc0KZw92UY-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-51" target="GjTvZx_OXRHc0KZw92UY-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GjTvZx_OXRHc0KZw92UY-51" value="获取学生列表" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="GjTvZx_OXRHc0KZw92UY-51" value="获取全量/增量操作的操作记录" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1000" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-53" target="GjTvZx_OXRHc0KZw92UY-55">
