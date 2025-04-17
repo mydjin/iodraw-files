@@ -246,7 +246,7 @@
             <mxPoint x="1060" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GjTvZx_OXRHc0KZw92UY-67" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="GjTvZx_OXRHc0KZw92UY-67" value="加锁" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="540" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
