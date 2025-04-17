@@ -87,8 +87,8 @@
         <mxCell id="GjTvZx_OXRHc0KZw92UY-12" value="档案一键同步" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GjTvZx_OXRHc0KZw92UY-13" value="档案一键同步" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="10" width="120" height="60" as="geometry" />
+        <mxCell id="GjTvZx_OXRHc0KZw92UY-13" value="持卡情况一键同步" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
