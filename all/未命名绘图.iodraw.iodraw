@@ -84,8 +84,11 @@
         <mxCell id="GjTvZx_OXRHc0KZw92UY-11" value="打开弹窗，选择自营平台，勾选是否同步信息，允许不存在就创建，存在就覆盖&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1000" y="160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GjTvZx_OXRHc0KZw92UY-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="GjTvZx_OXRHc0KZw92UY-12" value="档案一键同步" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GjTvZx_OXRHc0KZw92UY-13" value="档案一键同步" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="10" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
