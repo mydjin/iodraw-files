@@ -253,8 +253,8 @@
         <mxCell id="GjTvZx_OXRHc0KZw92UY-77" value="释放锁" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1000" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GjTvZx_OXRHc0KZw92UY-79" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="1360" width="120" height="60" as="geometry" />
+        <mxCell id="GjTvZx_OXRHc0KZw92UY-79" value="释放锁" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
