@@ -246,8 +246,11 @@
             <mxPoint x="1060" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GjTvZx_OXRHc0KZw92UY-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-67" target="GjTvZx_OXRHc0KZw92UY-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-67" value="加锁" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="540" width="120" height="50" as="geometry" />
+          <mxGeometry x="160" y="500" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
