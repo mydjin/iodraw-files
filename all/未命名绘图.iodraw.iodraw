@@ -187,8 +187,11 @@
         <mxCell id="GjTvZx_OXRHc0KZw92UY-46" value="判断存在对应的前置档案同步的操作步骤" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="990" y="795" width="140" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="GjTvZx_OXRHc0KZw92UY-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-49" target="GjTvZx_OXRHc0KZw92UY-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-49" value="获取持卡情况" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1000" y="935" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-51" target="GjTvZx_OXRHc0KZw92UY-46">
           <mxGeometry relative="1" as="geometry" />
@@ -203,19 +206,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-58" value="多线程同步/异步方式同步数据（同步/异步对应的是全量/增量数据）" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1000" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-60" target="GjTvZx_OXRHc0KZw92UY-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-60" value="判断档案是否是旧卡，旧卡数据删除，新卡数据新增" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1000" y="1140" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-61" value="去掉锁" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1000" y="1220" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-62" value="更新全量同步/增量同步的操作记录" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1200" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-34" target="GjTvZx_OXRHc0KZw92UY-18">
           <mxGeometry relative="1" as="geometry">
