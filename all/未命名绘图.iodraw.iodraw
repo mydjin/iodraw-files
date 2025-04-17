@@ -106,7 +106,13 @@
           <mxGeometry x="340" y="530" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-20" target="GjTvZx_OXRHc0KZw92UY-22">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="860" />
+              <mxPoint x="300" y="860" />
+              <mxPoint x="300" y="910" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-20" value="判断勾选了区域、宿舍、学籍、岗位、部门" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="740" width="140" height="100" as="geometry" />
@@ -133,7 +139,7 @@
           <mxGeometry x="160" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-30" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="1050" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
