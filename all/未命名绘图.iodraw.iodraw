@@ -93,7 +93,7 @@
         <mxCell id="GjTvZx_OXRHc0KZw92UY-13" value="持卡情况一键同步" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GjTvZx_OXRHc0KZw92UY-14" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="GjTvZx_OXRHc0KZw92UY-14" value="检查" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="530" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
