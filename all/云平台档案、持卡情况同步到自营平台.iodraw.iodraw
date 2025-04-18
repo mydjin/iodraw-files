@@ -91,7 +91,7 @@
         <mxCell id="GjTvZx_OXRHc0KZw92UY-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-28" target="GjTvZx_OXRHc0KZw92UY-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GjTvZx_OXRHc0KZw92UY-28" value="逐一判断是否存在，不存在就需要新建，如果存在就重建" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="GjTvZx_OXRHc0KZw92UY-28" value="逐一判断是否存在，不存在就需要新建，如果存在就判断是否信息一直" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PQY5AKo9LR4lD6GF2Sku-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-30" target="GjTvZx_OXRHc0KZw92UY-38">
