@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="档案管理">
-    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -94,7 +94,7 @@
         <mxCell id="GjTvZx_OXRHc0KZw92UY-28" value="逐一判断是否存在，不存在就需要新建，如果存在就判断是否信息一致" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PQY5AKo9LR4lD6GF2Sku-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-30" target="GjTvZx_OXRHc0KZw92UY-38">
+        <mxCell id="PQY5AKo9LR4lD6GF2Sku-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-30" target="GjTvZx_OXRHc0KZw92UY-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-30" value="加锁不允许多次点击操作，获取操作记录，如果为空则是全量同步" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -118,7 +118,7 @@
         <mxCell id="GjTvZx_OXRHc0KZw92UY-36" value="操作完成，更新全量同步/增量同步的操作记录为操作成功" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PQY5AKo9LR4lD6GF2Sku-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-38" target="GjTvZx_OXRHc0KZw92UY-32">
+        <mxCell id="PQY5AKo9LR4lD6GF2Sku-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-38" target="GjTvZx_OXRHc0KZw92UY-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-38" value="增加全量同步/增量同步的操作记录" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -154,7 +154,7 @@
             <mxPoint x="570" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tvlztAjkB8tfi5tuh59j-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-28" target="GjTvZx_OXRHc0KZw92UY-18">
+        <mxCell id="tvlztAjkB8tfi5tuh59j-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-28" target="GjTvZx_OXRHc0KZw92UY-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="1280" as="sourcePoint" />
             <mxPoint x="570" y="660" as="targetPoint" />
@@ -163,7 +163,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tvlztAjkB8tfi5tuh59j-1" value="已存在对应信息，但是信息不一致，需要检查" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tvlztAjkB8tfi5tuh59j-0">
+        <mxCell id="tvlztAjkB8tfi5tuh59j-1" value="已存在对应信息，但是信息不一致，需要检查" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tvlztAjkB8tfi5tuh59j-0" vertex="1" connectable="0">
           <mxGeometry x="-0.5464" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
