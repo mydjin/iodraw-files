@@ -218,7 +218,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0i4PkF3hrvdCMjQObe-M-15" value="判断自营机构是否正常" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-560" y="625" width="80" height="80" as="geometry" />
+          <mxGeometry x="-610" y="625" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0i4PkF3hrvdCMjQObe-M-16" value="返回错误" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="-400" y="625" width="80" height="80" as="geometry" />
