@@ -97,7 +97,7 @@
         <mxCell id="PQY5AKo9LR4lD6GF2Sku-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-30" target="GjTvZx_OXRHc0KZw92UY-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GjTvZx_OXRHc0KZw92UY-30" value="加锁，获取操作记录，如果为空则是全量同步" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="GjTvZx_OXRHc0KZw92UY-30" value="加锁不允许多次点击操作，获取操作记录，如果为空则是全量同步" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-32" target="GjTvZx_OXRHc0KZw92UY-34" edge="1">
