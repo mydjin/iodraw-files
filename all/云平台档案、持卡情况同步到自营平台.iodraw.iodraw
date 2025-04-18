@@ -103,13 +103,8 @@
         <mxCell id="GjTvZx_OXRHc0KZw92UY-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-32" target="GjTvZx_OXRHc0KZw92UY-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GjTvZx_OXRHc0KZw92UY-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-32" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="1170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-32" value="多线程同步/异步方式同步数据（对应的是全量/增量数据）" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="1160" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-34" target="GjTvZx_OXRHc0KZw92UY-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -123,8 +118,11 @@
         <mxCell id="GjTvZx_OXRHc0KZw92UY-36" value="操作完成，更新全量同步/增量同步的操作记录为操作成功" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PQY5AKo9LR4lD6GF2Sku-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-38" target="GjTvZx_OXRHc0KZw92UY-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-38" value="增加全量同步/增量同步的操作记录" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="1070" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GjTvZx_OXRHc0KZw92UY-34" target="GjTvZx_OXRHc0KZw92UY-18" edge="1">
           <mxGeometry relative="1" as="geometry">
