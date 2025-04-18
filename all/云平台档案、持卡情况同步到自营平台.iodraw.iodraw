@@ -62,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-16" value="判断传递的orgId是否正常，是不是自营平台" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="130" y="570" width="130" height="80" as="geometry" />
+          <mxGeometry x="155" y="570" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-18" value="返回错误" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="520" y="570" width="80" height="80" as="geometry" />
@@ -158,7 +158,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oLHcBh7MdhLN32HJKucR" name="持卡情况">
-    <mxGraphModel dx="1125" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
