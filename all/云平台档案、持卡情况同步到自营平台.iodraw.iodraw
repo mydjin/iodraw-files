@@ -231,7 +231,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0i4PkF3hrvdCMjQObe-M-18" value="判断操作记录是否存在对应的前置档案同步的操作步骤" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
+        <mxCell id="0i4PkF3hrvdCMjQObe-M-18" value="判断存在对应的前置档案同步的操作步骤" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="-590" y="835" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="0i4PkF3hrvdCMjQObe-M-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0i4PkF3hrvdCMjQObe-M-20" target="0i4PkF3hrvdCMjQObe-M-25" edge="1">
