@@ -257,7 +257,7 @@
         <mxCell id="0i4PkF3hrvdCMjQObe-M-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0i4PkF3hrvdCMjQObe-M-25" target="0i4PkF3hrvdCMjQObe-M-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0i4PkF3hrvdCMjQObe-M-25" value="多线程同步/异步方式同步数据（同步/异步对应的是全量/增量数据）" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
+        <mxCell id="0i4PkF3hrvdCMjQObe-M-25" value="多线程同步/异步方式同步数据（对应的是全量/增量数据）" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="-580" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0i4PkF3hrvdCMjQObe-M-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0i4PkF3hrvdCMjQObe-M-27" target="0i4PkF3hrvdCMjQObe-M-29" edge="1">
