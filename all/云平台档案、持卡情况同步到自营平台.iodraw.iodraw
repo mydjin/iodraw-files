@@ -61,7 +61,7 @@
             <mxPoint x="220" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GjTvZx_OXRHc0KZw92UY-16" value="判断自营机构是否正常" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="GjTvZx_OXRHc0KZw92UY-16" value="判断传递的orgId是否正常，是不是自营平台" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="570" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GjTvZx_OXRHc0KZw92UY-18" value="返回错误" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
