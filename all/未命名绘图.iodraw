@@ -190,10 +190,10 @@
           <mxGeometry x="1670" y="270" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WUuiOzf7_EWUpLaImWar-5" value="拨款机" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1480" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="1470" y="500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WUuiOzf7_EWUpLaImWar-6" value="筑波一卡通" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1680" y="280" width="120" height="40" as="geometry" />
+        <mxCell id="WUuiOzf7_EWUpLaImWar-6" value="申能达云平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1670" y="500" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
