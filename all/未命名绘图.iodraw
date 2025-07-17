@@ -186,7 +186,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1230" y="470" />
-              <mxPoint x="1230" y="660" />
+              <mxPoint x="1230" y="860" />
+              <mxPoint x="1714" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -267,7 +268,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WUuiOzf7_EWUpLaImWar-15" value="申能达热水扫码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1210" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="1654" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
