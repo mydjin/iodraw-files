@@ -177,7 +177,7 @@
         <mxCell id="WUuiOzf7_EWUpLaImWar-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WUuiOzf7_EWUpLaImWar-1" target="WUuiOzf7_EWUpLaImWar-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WUuiOzf7_EWUpLaImWar-12" value="因为数据不上传，且只有机子的数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WUuiOzf7_EWUpLaImWar-11">
+        <mxCell id="WUuiOzf7_EWUpLaImWar-12" value="因为数据不上载，且只有机子的数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WUuiOzf7_EWUpLaImWar-11">
           <mxGeometry x="0.1545" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
