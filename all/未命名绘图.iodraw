@@ -234,6 +234,11 @@
         <mxCell id="WUuiOzf7_EWUpLaImWar-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WUuiOzf7_EWUpLaImWar-15" target="WUuiOzf7_EWUpLaImWar-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="WUuiOzf7_EWUpLaImWar-19" value="云钱包/库钱包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WUuiOzf7_EWUpLaImWar-18">
+          <mxGeometry x="-0.2036" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WUuiOzf7_EWUpLaImWar-15" value="扫码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1210" y="660" width="120" height="60" as="geometry" />
         </mxCell>
