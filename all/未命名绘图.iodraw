@@ -30,9 +30,13 @@
         <mxCell id="ITrgoQas6V3On7nzeBZA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ITrgoQas6V3On7nzeBZA-1" target="WIyWlLk6GJQsqaUBKTNV-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="340" />
+              <mxPoint x="220" y="340" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ITrgoQas6V3On7nzeBZA-1" value="detail_old_back" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ITrgoQas6V3On7nzeBZA-1" value="detail_old_back(带索引、相当于去重)" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
